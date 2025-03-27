@@ -41,7 +41,7 @@ public class User {
         private String firstName;
         private String lastName;
 
-        public Builder() {}
+
 
         public Builder setFirstName(String firstName) {
             this.firstName = firstName;

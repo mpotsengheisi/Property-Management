@@ -16,8 +16,6 @@ public class Payment {
         this.property = builder.property;
 
 
-
-
     }
 
     public String getPaymentId() {
